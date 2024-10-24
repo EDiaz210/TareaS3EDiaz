@@ -16,21 +16,14 @@ El proyecto utiliza la clase `Empleado` para almacenar y manipular los atributos
 
 El proyecto contiene los siguientes archivos principales:
 
-- **`Empleado.java`**: Clase que define los atributos y métodos de los empleados.
-- **`Main.java`**: Clase principal que ejecuta el programa.
+- **Empleado.java**: Clase que define los atributos y métodos de los empleados.
+- **Main.java**: Clase principal que ejecuta el programa.
   
 ## Instalación
 
-Sigue los siguientes pasos para ejecutar el proyecto en tu máquina local:
+1. Abre el proyecto en tu IDE de preferencia (por ejemplo, IntelliJ IDEA, Eclipse).
 
-1. Clona este repositorio:
-    ```bash
-    git clone https://github.com/tu-usuario/nombre-repositorio.git
-    ```
-
-2. Abre el proyecto en tu IDE de preferencia (por ejemplo, IntelliJ IDEA, Eclipse).
-
-3. Compila y ejecuta el archivo `Main.java`.
+2. Compila y ejecuta el archivo `Main.java`.
 
 ## Ejecución
 
